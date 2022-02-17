@@ -6,7 +6,7 @@ using System.Globalization;
 namespace Ultrabalaton
 {
     class Versenyzo
-    {
+    { 
         public string Nev { get; set; }
         public int Rajtszam;
         public string Kategoria;

@@ -18,7 +18,7 @@
         <ListBox Name="lboxNames" Canvas.Top="170" Canvas.Left="10" Width="200" Height="100" />
         <Label Content="" Name="lbThird" Canvas.Top="280" Canvas.Left="20" FontWeight="Bold"/>
         <Label Content="" Name="lbFourth" Canvas.Top="310" Canvas.Left="20" FontWeight="Bold"/>
-        <Button x:Name="btnToFile" Content="Fájlba írás" Canvas.Top="370" Canvas.Left="20" Width="80" Padding="3" Click="btnToFile_Click" IsEnabled="False"/>
+        <Button x:Name="btnToFile" Content="Fájlba írás" Canvas.Top="370" Canvas.Left="20" Width="80" Padding="3" Click="btnToFile_Click" IsEnabled="False" />
 
     </Canvas>
 </Window>

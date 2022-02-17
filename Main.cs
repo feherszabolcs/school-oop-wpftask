@@ -9,7 +9,7 @@ using System.Windows.Controls;
 namespace Ultrabalaton
 {
     class Main
-    {
+    { 
         private List<Versenyzo> versenyzok = new List<Versenyzo>();
         public void Fill()
         {

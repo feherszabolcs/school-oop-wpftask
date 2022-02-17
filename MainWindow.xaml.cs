@@ -22,7 +22,7 @@ namespace Ultrabalaton
     {
         static Main main = new Main();
         public MainWindow()
-        {
+        { 
             InitializeComponent();
             
             main.Fill();
